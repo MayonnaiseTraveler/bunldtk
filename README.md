@@ -13,7 +13,7 @@ A Cool c99 LDTK Level Loader made with json-c
 - To add to your project simply copy the headers, bunarr.c and ldtk.c 
 
 ## ⚠️  Caveats:
-- Currently not feature complete!
+- ***Currently not feature complete!***
 - Requires bunarr and json-c
 - Walls w and h are relative to the minimum wall size, 
 this means you must multiply the w and h by the tile size of your game before using them.
